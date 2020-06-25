@@ -2,5 +2,5 @@
 Just another repository
 
 Hi,
-I am Shilpa. I love tacos.
+I am Shilpa. GITHUB learning session.
 Thank you
